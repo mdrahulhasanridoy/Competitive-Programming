@@ -25,4 +25,5 @@ int main(){
     cout << ++f << endl; // f is increased first then used - 6
     cout << g++ << endl; // g is used first then increased - 5
 
+    
 }

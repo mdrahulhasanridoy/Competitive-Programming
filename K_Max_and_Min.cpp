@@ -9,8 +9,6 @@ int main(){
 
     cout << min({x,y,z}) << " "<< max({x,y,z}) << endl;
 }
-    
-    
     //Type 2
     /*
     if(x > y)
